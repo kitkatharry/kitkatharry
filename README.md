@@ -2,6 +2,14 @@
 
 I don't really code much but when I do it will probably be when im coding in either **Python, HTML, CSS, JS or Batch**.
 
+Intrests:
+Aviation,
+Linux **(even though it hates me)**,
+F1 **(Formula 1)**,
+Networking,
+Running/Testing out Malware and Ransomware **(aswell as looking at the files)** and
+Listening to music :)
+
 <!--
 **kitkatharry/kitkatharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
