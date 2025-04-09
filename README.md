@@ -1,4 +1,6 @@
-## Hi there 👋
+## Yooo! Welcome to my GitHub!
+
+I don't really code much but when I do it will probably be when im coding in either **Python, HTML, CSS, JS or Batch**.
 
 <!--
 **kitkatharry/kitkatharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
